@@ -1,2 +1,2 @@
 # zck
-zdk: custom shell
+zck: custom shell
